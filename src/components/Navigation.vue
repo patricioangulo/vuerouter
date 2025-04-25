@@ -1,4 +1,3 @@
-
 <template>
   <nav class="card">
     <Menubar :model="items">
@@ -33,6 +32,4 @@ const items = ref([
 
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
