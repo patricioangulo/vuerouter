@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import Navigation from './components/Navigation.vue';
 import Button from 'primevue/button';
 </script>

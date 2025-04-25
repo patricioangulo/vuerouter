@@ -3,9 +3,9 @@ import './style.css'
 import App from './App.vue'
 import router from './router'
 import PrimeVue from 'primevue/config';
-import Aura from '@primeuix/themes/aura';
+// import Aura from '@primeuix/themes/aura';
 import Lara from '@primeuix/themes/lara';
-import Nora from '@primeuix/themes/nora';
+// import Nora from '@primeuix/themes/nora';
 
 createApp(App)
   .use(router)
